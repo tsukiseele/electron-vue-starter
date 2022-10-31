@@ -1,6 +1,6 @@
 import { app, BrowserWindow, screen, ipcMain, ipcRenderer, shell } from 'electron'
 import { join } from 'path'
-import './ipc/main'
+import './ipc/index'
 
 async function createWindow() {
   const width = 1080
