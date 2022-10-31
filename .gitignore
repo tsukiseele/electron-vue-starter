@@ -1,0 +1,14 @@
+node_modules
+/dist
+/build
+/download
+
+.vscode
+.idea
+.history
+.cache
+
+package-lock.json
+yarn.lock
+
+*.log
